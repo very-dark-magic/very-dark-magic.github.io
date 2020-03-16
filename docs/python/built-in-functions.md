@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Buttons
+title: Some built-in functions
 parent: python
-nav_order: 2
+nav_order: 1
 ---
 
 # Buttons
