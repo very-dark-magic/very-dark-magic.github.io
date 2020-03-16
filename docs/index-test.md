@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Markdown kitchen sink
-nav_order: 99
+nav_exclude: true
+search_exclude: true
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
