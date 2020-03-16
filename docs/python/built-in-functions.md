@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Some built-in functions
-parent: python
+parent: Python
 nav_order: 1
 ---
 
-# Buttons
+# Some built-in functions
 {: .no_toc }
 
 ## Table of contents
